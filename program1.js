@@ -10,7 +10,7 @@ const items =[
  
 var a = 0;
 var sum = 0;
-if (a=0, a < 6, a++)
+for (a= 0; a < 6; a++)
 {   
 sum = sum + items[a].price;
 
