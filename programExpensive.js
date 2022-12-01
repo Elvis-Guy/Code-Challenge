@@ -22,4 +22,4 @@ const items =[
            a++;
        }    
       }
-      console.log('The expensive item  is ${items[b].name} and it costs ${items[b].price');
+      console.log(`The expensive item  is ${items[b].name} and it costs ${items[b].price`);
