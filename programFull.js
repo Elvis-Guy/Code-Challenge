@@ -15,4 +15,4 @@ for (a= 0; a < 6; a++)
 sum = sum + items[a].price;
 
 }
-console.log ('the price is ${sum}');
+console.log (`the price is ${sum}`);
